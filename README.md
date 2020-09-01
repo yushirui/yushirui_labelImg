@@ -1,10 +1,11 @@
 # 余时锐卷积神经标注工具
+## yushirui_labelImg
 
 # 一、运行
-windows用户，可以只下载exe文件运行
-源码运行，python3 main.py
+- windows用户，可以只下载【余时锐卷积神经标注v1.0.exe】文件运行
+- 源码运行，python3 main.py
 
-# 二、yushirui_labelImg项目说明
+# 二、项目说明
 从labelImg改造而来，用来手工标注图片
 标注后生成xml文件，用于卷积神经网络训练，如图形图像识别、人脸识别等等
 
